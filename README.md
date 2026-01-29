@@ -2,9 +2,11 @@
 
 Workshop materiaal voor het bouwen van AI-applicaties met Python en Streamlit.
 
+**Datum:** 2 februari 2026
+
 **Lesgever:** Wim Casteels - [wimcasteels.be](https://wimcasteels.be)
 
-![AI Assistent voorbeeld](AI%20assistent.png)
+![AI Assistent voorbeeld](AI-assistent.png)
 
 ## Workshop volgen via GitHub Codespaces
 

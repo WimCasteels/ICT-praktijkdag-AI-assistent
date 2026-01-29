@@ -8,6 +8,8 @@ Workshop materiaal voor het bouwen van AI-applicaties met Python en Streamlit.
 
 ![AI Assistent voorbeeld](AI-assistent.png)
 
+**Live demo:** [ict-praktijkdag-ai-assistent.streamlit.app](https://ict-praktijkdag-ai-assistent.streamlit.app/)
+
 ## Workshop volgen via GitHub Codespaces
 
 **Tip:** Fork deze repository eerst naar je eigen GitHub account. Zo kan je je wijzigingen bewaren en later je app deployen via Streamlit Cloud.

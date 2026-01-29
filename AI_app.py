@@ -3,7 +3,7 @@ from chatbot_functies import chatbot_response
 
 
 st.title("🤖 Mijn AI Assistent 🤖")
-st.markdown("ICT Praktijkdag - Eigen AI-assistent")
+st.markdown("ICT Praktijkdag - 2 februari 2026")
 form = st.form(key="user_settings")
 with form:
     AI_concept = st.text_input("Voer het AI-concept in dat je wilt leren:", key = "AI_concept")

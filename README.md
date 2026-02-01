@@ -12,10 +12,10 @@ Workshop materiaal voor het bouwen van AI-applicaties met Python en Streamlit.
 
 ## Workshop volgen via GitHub Codespaces
 
-**Tip:** Fork deze repository eerst naar je eigen GitHub account. Zo kan je je wijzigingen bewaren en later je app deployen via Streamlit Cloud.
+**Tip:** Kopieer deze repository eerst naar je eigen GitHub account. Zo kan je je wijzigingen bewaren en later je app deployen via Streamlit Cloud.
 
-1. Klik rechtsboven op **Fork** om de repository te kopiëren naar je eigen account
-2. Ga naar jouw geforkte repository
+1. Klik rechtsboven op **Use this template** om de repository te kopiëren naar je eigen account
+2. Ga naar jouw gekopieerde repository
 3. Klik op de groene **Code** knop
 4. Selecteer het tabblad **Codespaces**
 5. Klik op **Create codespace on main**
